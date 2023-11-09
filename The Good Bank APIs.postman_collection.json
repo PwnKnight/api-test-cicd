@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "2582d7e1-02cd-4409-b3aa-01b7c2e7bd94",
-		"name": "The Good Bank APIs.",
+		"name": "The Good Bank APIs",
 		"description": "This collection contains the APIs that power The Good Bank's client website and internal service portals.\n\nProceed with caution!",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "27673422"
