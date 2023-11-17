@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "ea6d0ee2-c581-4eab-9265-1451389d3ad0",
-		"name": "goat",
+		"name": "goat.",
 		"description": "Goat by Pynt is a vulnerable application example, used to demonstrate the most critical and common API security risks.\n\nFork Goat to your workspace and provide it as a variable to Pynt collection to detect its vulnerabilities.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "27673422"
